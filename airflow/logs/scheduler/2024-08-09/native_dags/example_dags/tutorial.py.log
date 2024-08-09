@@ -180,3 +180,234 @@
 [2024-08-09T13:26:53.866-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:26:53.866-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:26:53.872-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:26:53.872-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
 [2024-08-09T13:26:53.878-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:27:53.130-0400] {processor.py:161} INFO - Started process (PID=23042) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:27:53.130-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:27:53.130-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:53.130-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:27:53.133-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:27:53.168-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:53.168-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:27:53.175-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:53.175-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:27:53.182-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.053 seconds
+[2024-08-09T13:28:48.545-0400] {processor.py:161} INFO - Started process (PID=23201) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:28:48.546-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:28:48.547-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:28:48.547-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:28:48.549-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:28:48.582-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:28:48.582-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:28:48.588-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:28:48.588-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:28:48.595-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.051 seconds
+[2024-08-09T13:29:44.454-0400] {processor.py:161} INFO - Started process (PID=23346) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:29:44.456-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:29:44.456-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:29:44.456-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:29:44.459-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:29:44.490-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:29:44.490-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:29:44.496-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:29:44.496-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:29:44.502-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.049 seconds
+[2024-08-09T13:30:41.035-0400] {processor.py:161} INFO - Started process (PID=23475) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:30:41.036-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:30:41.036-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:30:41.036-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:30:41.039-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:30:41.069-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:30:41.069-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:30:41.076-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:30:41.076-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:30:41.082-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:31:39.364-0400] {processor.py:161} INFO - Started process (PID=23592) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:31:39.365-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:31:39.365-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:31:39.365-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:31:39.368-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:31:39.398-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:31:39.398-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:31:39.404-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:31:39.404-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:31:39.410-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:32:37.104-0400] {processor.py:161} INFO - Started process (PID=23631) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:32:37.105-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:32:37.106-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:32:37.106-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:32:37.109-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:32:37.139-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:32:37.139-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:32:37.145-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:32:37.145-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:32:37.151-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:33:34.108-0400] {processor.py:161} INFO - Started process (PID=23708) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:33:34.109-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:33:34.109-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:33:34.109-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:33:34.112-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:33:34.143-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:33:34.143-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:33:34.149-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:33:34.149-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:33:34.155-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:34:28.737-0400] {processor.py:161} INFO - Started process (PID=23767) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:34:28.738-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:34:28.738-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:34:28.738-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:34:28.741-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:34:28.771-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:34:28.771-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:34:28.776-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:34:28.776-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:34:28.782-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.046 seconds
+[2024-08-09T13:35:21.157-0400] {processor.py:161} INFO - Started process (PID=23857) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:35:21.158-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:35:21.158-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:21.158-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:35:21.161-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:35:21.192-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:21.192-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:35:21.197-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:21.197-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:35:21.203-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:36:14.133-0400] {processor.py:161} INFO - Started process (PID=23893) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:36:14.135-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:36:14.136-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:36:14.136-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:36:14.138-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:36:14.169-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:36:14.169-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:36:14.174-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:36:14.174-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:36:14.180-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:37:06.292-0400] {processor.py:161} INFO - Started process (PID=23940) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:37:06.293-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:37:06.293-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:37:06.293-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:37:06.296-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:37:06.330-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:37:06.330-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:37:06.336-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:37:06.336-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:37:06.343-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-08-09T13:38:05.174-0400] {processor.py:161} INFO - Started process (PID=23984) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:38:05.175-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:38:05.176-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:38:05.175-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:38:05.178-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:38:05.210-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:38:05.209-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:38:05.215-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:38:05.215-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:38:05.221-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:39:05.042-0400] {processor.py:161} INFO - Started process (PID=24022) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:39:05.043-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:39:05.044-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:05.044-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:39:05.046-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:39:05.077-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:05.077-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:39:05.083-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:05.083-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:39:05.089-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:39:59.017-0400] {processor.py:161} INFO - Started process (PID=24061) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:39:59.018-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:39:59.018-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:59.018-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:39:59.021-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:39:59.052-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:59.052-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:39:59.057-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:59.057-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:39:59.064-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:40:52.134-0400] {processor.py:161} INFO - Started process (PID=24110) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:40:52.134-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:40:52.135-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:40:52.134-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:40:52.137-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:40:52.169-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:40:52.168-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:40:52.175-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:40:52.175-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:40:52.185-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-08-09T13:41:45.666-0400] {processor.py:161} INFO - Started process (PID=24222) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:41:45.667-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:41:45.667-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:41:45.667-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:41:45.670-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:41:45.701-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:41:45.701-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:41:45.706-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:41:45.706-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:41:45.712-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:42:42.387-0400] {processor.py:161} INFO - Started process (PID=24310) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:42:42.388-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:42:42.388-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:42:42.388-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:42:42.391-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:42:42.426-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:42:42.425-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:42:42.432-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:42:42.432-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:42:42.439-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.053 seconds
+[2024-08-09T13:43:38.954-0400] {processor.py:161} INFO - Started process (PID=24368) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:43:38.955-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:43:38.955-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:43:38.955-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:43:38.959-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:43:38.990-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:43:38.990-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:43:38.995-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:43:38.995-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:43:39.001-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:44:28.975-0400] {processor.py:161} INFO - Started process (PID=24404) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:44:28.976-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:44:28.976-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:44:28.976-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:44:28.979-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:44:29.009-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:44:29.009-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:44:29.015-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:44:29.015-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:44:29.021-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.046 seconds
+[2024-08-09T13:45:17.784-0400] {processor.py:161} INFO - Started process (PID=24439) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:45:17.785-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:45:17.785-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:17.785-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:45:17.788-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:45:17.819-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:17.818-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:45:17.824-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:17.824-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:45:17.830-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:46:09.008-0400] {processor.py:161} INFO - Started process (PID=24472) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:46:09.009-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:46:09.009-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:46:09.009-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:46:09.012-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:46:09.047-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:46:09.047-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:46:09.053-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:46:09.053-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:46:09.060-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.053 seconds
+[2024-08-09T13:47:02.873-0400] {processor.py:161} INFO - Started process (PID=24512) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:47:02.874-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:47:02.875-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:02.874-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:47:02.877-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:47:02.908-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:02.908-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:47:02.914-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:02.914-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:47:02.919-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:47:52.172-0400] {processor.py:161} INFO - Started process (PID=24546) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:47:52.174-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:47:52.174-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:52.174-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:47:52.177-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:47:52.207-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:52.207-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:47:52.213-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:52.213-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:47:52.219-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:48:43.465-0400] {processor.py:161} INFO - Started process (PID=24582) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:48:43.466-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:48:43.466-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:48:43.466-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:48:43.469-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:48:43.500-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:48:43.500-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:48:43.506-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:48:43.506-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:48:43.512-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:49:33.039-0400] {processor.py:161} INFO - Started process (PID=24618) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:49:33.040-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:49:33.040-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:49:33.040-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:49:33.043-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:49:33.074-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:49:33.074-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:49:33.079-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:49:33.079-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:49:33.085-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:50:21.419-0400] {processor.py:161} INFO - Started process (PID=24664) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:50:21.419-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:50:21.419-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:21.419-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:50:21.422-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:50:21.453-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:21.453-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:50:21.459-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:21.459-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:50:21.464-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:51:12.327-0400] {processor.py:161} INFO - Started process (PID=24702) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:51:12.328-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:51:12.328-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:51:12.328-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:51:12.331-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:51:12.362-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:51:12.361-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:51:12.367-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:51:12.367-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:51:12.373-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:52:01.169-0400] {processor.py:161} INFO - Started process (PID=24746) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:52:01.171-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:52:01.171-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:01.171-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:52:01.174-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:52:01.208-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:01.208-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:52:01.214-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:01.214-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:52:01.220-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-08-09T13:52:58.300-0400] {processor.py:161} INFO - Started process (PID=24827) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:52:58.301-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:52:58.301-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:58.301-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:52:58.304-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:52:58.335-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:58.335-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:52:58.341-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:58.341-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:52:58.347-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:53:56.797-0400] {processor.py:161} INFO - Started process (PID=24880) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:53:56.798-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:53:56.798-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:53:56.798-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:53:56.801-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:53:56.832-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:53:56.831-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:53:56.837-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:53:56.837-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:53:56.843-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.046 seconds
+[2024-08-09T13:54:53.241-0400] {processor.py:161} INFO - Started process (PID=24936) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:54:53.242-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:54:53.242-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:54:53.242-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:54:53.245-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:54:53.276-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:54:53.276-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:54:53.282-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:54:53.282-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:54:53.288-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-08-09T13:55:53.480-0400] {processor.py:161} INFO - Started process (PID=25015) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:55:53.482-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:55:53.482-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:55:53.482-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:55:53.485-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:55:53.515-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:55:53.515-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:55:53.521-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:55:53.521-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:55:53.527-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-08-09T13:56:52.083-0400] {processor.py:161} INFO - Started process (PID=25059) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:56:52.084-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-09T13:56:52.084-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:52.084-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:56:52.087-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-09T13:56:52.123-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:52.123-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:56:52.130-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:52.130-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:56:52.137-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds

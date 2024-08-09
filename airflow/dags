@@ -13,5 +13,24 @@ with DAG(dag_id="demo1", start_date=datetime(2024, 8, 9), schedule="0 * * * *") 
     def airflow():
         print("airflow")
 
+    @task()
+    def task1():
+        print("task1")
+
+    @task()
+    def task2():
+        print("task2")
+
+    @task()
+    def task3():
+        print("task3")
+
+    @task()
+    def final_task():
+        print("final_task")
+
+
+
+
     # Set dependencies between tasks
-    hello >> airflow()
+    hello >> [task1(), task2(), task3()] >> airflow() >> final_task()

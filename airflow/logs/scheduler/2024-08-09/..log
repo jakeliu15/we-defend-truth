@@ -73,3 +73,241 @@
 [2024-08-09T13:26:36.979-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:26:36.979-0400] {dag.py:3111} INFO - Creating ORM DAG for demo1
 [2024-08-09T13:26:36.981-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:26:36.981-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
 [2024-08-09T13:26:36.987-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.090 seconds
+[2024-08-09T13:27:35.517-0400] {processor.py:161} INFO - Started process (PID=22971) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:27:35.518-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:27:35.518-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:35.518-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:27:35.537-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:27:35.569-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:35.569-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:27:35.575-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:35.575-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:27:35.582-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.065 seconds
+[2024-08-09T13:28:33.247-0400] {processor.py:161} INFO - Started process (PID=23149) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:28:33.247-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:28:33.247-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:28:33.247-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:28:33.261-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:28:33.291-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:28:33.291-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:28:33.296-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:28:33.296-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:28:33.302-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
+[2024-08-09T13:29:27.221-0400] {processor.py:161} INFO - Started process (PID=23302) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:29:27.222-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:29:27.222-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:29:27.222-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:29:27.236-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:29:27.267-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:29:27.267-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:29:27.272-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:29:27.272-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:29:27.279-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.059 seconds
+[2024-08-09T13:30:24.036-0400] {processor.py:161} INFO - Started process (PID=23441) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:30:24.037-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:30:24.037-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:30:24.037-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:30:24.051-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:30:24.080-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:30:24.080-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:30:24.086-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:30:24.085-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:30:24.092-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
+[2024-08-09T13:31:22.283-0400] {processor.py:161} INFO - Started process (PID=23560) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:31:22.284-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:31:22.284-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:31:22.284-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:31:22.298-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:31:22.328-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:31:22.328-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:31:22.334-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:31:22.334-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:31:22.341-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:32:20.093-0400] {processor.py:161} INFO - Started process (PID=23621) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:32:20.094-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:32:20.094-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:32:20.094-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:32:20.108-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:32:20.137-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:32:20.137-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:32:20.142-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:32:20.142-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:32:20.149-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
+[2024-08-09T13:33:16.982-0400] {processor.py:161} INFO - Started process (PID=23690) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:33:16.983-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:33:16.983-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:33:16.983-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:33:16.997-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:33:17.028-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:33:17.028-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:33:17.033-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:33:17.033-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:33:17.041-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.059 seconds
+[2024-08-09T13:34:12.747-0400] {processor.py:161} INFO - Started process (PID=23734) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:34:12.748-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:34:12.748-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:34:12.748-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:34:12.762-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:34:12.792-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:34:12.792-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:34:12.797-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:34:12.797-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:34:12.804-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:35:04.184-0400] {processor.py:161} INFO - Started process (PID=23841) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:35:04.184-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:35:04.185-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:04.185-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:35:04.208-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:35:04.283-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:04.283-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:35:04.289-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:04.289-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:35:04.295-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.113 seconds
+[2024-08-09T13:35:59.388-0400] {processor.py:161} INFO - Started process (PID=23882) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:35:59.389-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:35:59.390-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:59.389-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:35:59.405-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:35:59.435-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:59.435-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:35:59.440-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:35:59.440-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:35:59.447-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.060 seconds
+[2024-08-09T13:36:52.360-0400] {processor.py:161} INFO - Started process (PID=23930) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:36:52.361-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:36:52.361-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:36:52.361-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:36:52.376-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:36:52.407-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:36:52.407-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:36:52.419-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:36:52.419-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:36:52.427-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.068 seconds
+[2024-08-09T13:37:48.202-0400] {processor.py:161} INFO - Started process (PID=23974) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:37:48.203-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:37:48.203-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:37:48.203-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:37:48.217-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:37:48.247-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:37:48.247-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:37:48.253-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:37:48.253-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:37:48.259-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:38:47.991-0400] {processor.py:161} INFO - Started process (PID=24010) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:38:47.991-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:38:47.992-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:38:47.992-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:38:48.006-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:38:48.036-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:38:48.036-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:38:48.042-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:38:48.041-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:38:48.048-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:39:44.065-0400] {processor.py:161} INFO - Started process (PID=24051) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:39:44.066-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:39:44.066-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:44.066-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:39:44.081-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:39:44.111-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:44.111-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:39:44.117-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:39:44.117-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:39:44.124-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.060 seconds
+[2024-08-09T13:40:34.765-0400] {processor.py:161} INFO - Started process (PID=24086) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:40:34.766-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:40:34.766-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:40:34.766-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:40:34.780-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:40:34.811-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:40:34.811-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:40:34.816-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:40:34.816-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:40:34.823-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:41:29.521-0400] {processor.py:161} INFO - Started process (PID=24184) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:41:29.522-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:41:29.522-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:41:29.522-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:41:29.536-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:41:29.566-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:41:29.566-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:41:29.571-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:41:29.571-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:41:29.577-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
+[2024-08-09T13:42:25.313-0400] {processor.py:161} INFO - Started process (PID=24294) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:42:25.314-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:42:25.314-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:42:25.314-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:42:25.329-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:42:25.359-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:42:25.359-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:42:25.365-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:42:25.364-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:42:25.371-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.059 seconds
+[2024-08-09T13:43:23.059-0400] {processor.py:161} INFO - Started process (PID=24358) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:43:23.060-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:43:23.060-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:43:23.060-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:43:23.075-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:43:23.108-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:43:23.108-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:43:23.114-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:43:23.114-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:43:23.121-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.064 seconds
+[2024-08-09T13:44:13.292-0400] {processor.py:161} INFO - Started process (PID=24393) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:44:13.294-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:44:13.294-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:44:13.294-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:44:13.308-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:44:13.338-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:44:13.338-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:44:13.344-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:44:13.343-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:44:13.350-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:45:03.057-0400] {processor.py:161} INFO - Started process (PID=24426) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:45:03.058-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:45:03.058-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:03.058-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:45:03.073-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:45:03.103-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:03.103-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:45:03.109-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:03.108-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:45:03.115-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.059 seconds
+[2024-08-09T13:45:54.162-0400] {processor.py:161} INFO - Started process (PID=24461) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:45:54.163-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:45:54.163-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:54.163-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:45:54.176-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:45:54.206-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:54.206-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:45:54.212-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:45:54.211-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:45:54.218-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
+[2024-08-09T13:46:47.077-0400] {processor.py:161} INFO - Started process (PID=24502) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:46:47.078-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:46:47.078-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:46:47.078-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:46:47.092-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:46:47.122-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:46:47.122-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:46:47.127-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:46:47.127-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:46:47.134-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
+[2024-08-09T13:47:36.514-0400] {processor.py:161} INFO - Started process (PID=24536) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:47:36.515-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:47:36.515-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:36.515-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:47:36.529-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:47:36.560-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:36.560-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:47:36.567-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:47:36.567-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:47:36.575-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.062 seconds
+[2024-08-09T13:48:26.608-0400] {processor.py:161} INFO - Started process (PID=24572) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:48:26.608-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:48:26.608-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:48:26.608-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:48:26.623-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:48:26.653-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:48:26.653-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:48:26.658-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:48:26.658-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:48:26.665-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:49:17.776-0400] {processor.py:161} INFO - Started process (PID=24608) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:49:17.777-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:49:17.778-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:49:17.778-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:49:17.794-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:49:17.824-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:49:17.824-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:49:17.830-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:49:17.829-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:49:17.836-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.061 seconds
+[2024-08-09T13:50:06.021-0400] {processor.py:161} INFO - Started process (PID=24650) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:50:06.022-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:50:06.022-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:06.022-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:50:06.036-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:50:06.066-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:06.066-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:50:06.071-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:06.071-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:50:06.077-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
+[2024-08-09T13:50:56.479-0400] {processor.py:161} INFO - Started process (PID=24691) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:50:56.480-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:50:56.480-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:56.480-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:50:56.494-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:50:56.524-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:56.524-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:50:56.529-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:50:56.529-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:50:56.536-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:51:47.467-0400] {processor.py:161} INFO - Started process (PID=24734) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:51:47.467-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:51:47.468-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:51:47.468-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:51:47.483-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:51:47.512-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:51:47.512-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:51:47.517-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:51:47.517-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:51:47.524-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:52:40.789-0400] {processor.py:161} INFO - Started process (PID=24801) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:52:40.790-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:52:40.790-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:40.790-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:52:40.806-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:52:40.839-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:40.839-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:52:40.845-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:52:40.845-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:52:40.852-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.063 seconds
+[2024-08-09T13:53:39.380-0400] {processor.py:161} INFO - Started process (PID=24864) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:53:39.381-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:53:39.381-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:53:39.381-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:53:39.395-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:53:39.426-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:53:39.426-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:53:39.432-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:53:39.431-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:53:39.438-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.059 seconds
+[2024-08-09T13:54:36.246-0400] {processor.py:161} INFO - Started process (PID=24925) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:54:36.246-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:54:36.247-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:54:36.246-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:54:36.261-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:54:36.291-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:54:36.291-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:54:36.296-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:54:36.296-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:54:36.302-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:55:36.513-0400] {processor.py:161} INFO - Started process (PID=25002) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:55:36.514-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:55:36.514-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:55:36.514-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:55:36.529-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:55:36.559-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:55:36.559-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:55:36.564-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:55:36.564-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:55:36.571-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:56:34.754-0400] {processor.py:161} INFO - Started process (PID=25041) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:56:34.754-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:56:34.754-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:34.754-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:56:34.769-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:56:34.799-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:34.798-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:56:34.804-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:34.804-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:56:34.810-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.058 seconds
+[2024-08-09T13:57:33.455-0400] {processor.py:161} INFO - Started process (PID=25090) to work on /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:57:33.455-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow/dags for tasks to queue
+[2024-08-09T13:57:33.455-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:33.455-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:57:33.470-0400] {processor.py:840} INFO - DAG(s) 'demo1' retrieved from /Users/jakeliu/we-defend-truth-1/airflow/dags
+[2024-08-09T13:57:33.499-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:33.499-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:57:33.505-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:33.505-0400] {dag.py:3947} INFO - Setting next_dagrun for demo1 to 2024-08-09 00:00:00+00:00, run_after=2024-08-09 01:00:00+00:00
+[2024-08-09T13:57:33.511-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow/dags took 0.057 seconds
