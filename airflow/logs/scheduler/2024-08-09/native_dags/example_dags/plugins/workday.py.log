@@ -358,3 +358,9 @@
 [2024-08-09T13:57:36.824-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:36.824-0400] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
 [2024-08-09T13:57:36.825-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
 [2024-08-09T13:57:36.850-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-08-09T13:58:33.338-0400] {processor.py:161} INFO - Started process (PID=25306) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2024-08-09T13:58:33.338-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-08-09T13:58:33.339-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:33.339-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2024-08-09T13:58:33.339-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:33.339-0400] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-08-09T13:58:33.340-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2024-08-09T13:58:33.367-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds

@@ -313,3 +313,10 @@
 [2024-08-09T13:57:00.802-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:00.802-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:57:00.806-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:00.805-0400] {dag.py:3947} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
 [2024-08-09T13:57:00.811-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.048 seconds
+[2024-08-09T13:57:59.067-0400] {processor.py:161} INFO - Started process (PID=25200) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-09T13:57:59.068-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-09T13:57:59.068-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:59.068-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-09T13:57:59.071-0400] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-09T13:57:59.106-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:59.106-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:57:59.110-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:59.110-0400] {dag.py:3947} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-09T13:57:59.116-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.049 seconds

@@ -390,3 +390,10 @@
 [2024-08-09T13:56:55.671-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:55.671-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:56:55.675-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:55.675-0400] {dag.py:3947} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
 [2024-08-09T13:56:55.682-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.057 seconds
+[2024-08-09T13:57:53.851-0400] {processor.py:161} INFO - Started process (PID=25196) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2024-08-09T13:57:53.851-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-08-09T13:57:53.851-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:53.851-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2024-08-09T13:57:53.865-0400] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2024-08-09T13:57:53.896-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:53.896-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:57:53.901-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:53.901-0400] {dag.py:3947} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-08-09T13:57:53.907-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.058 seconds

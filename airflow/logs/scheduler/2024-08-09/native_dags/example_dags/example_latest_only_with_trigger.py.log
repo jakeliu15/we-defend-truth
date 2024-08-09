@@ -208,3 +208,10 @@
 [2024-08-09T13:56:33.082-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:33.082-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:56:33.087-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:33.087-0400] {dag.py:3947} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-08-09 12:00:00+00:00, run_after=2024-08-09 16:00:00+00:00
 [2024-08-09T13:56:33.094-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.048 seconds
+[2024-08-09T13:58:28.456-0400] {processor.py:161} INFO - Started process (PID=25295) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-08-09T13:58:28.457-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-08-09T13:58:28.457-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:28.457-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-08-09T13:58:28.461-0400] {processor.py:840} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-08-09T13:58:28.493-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:28.493-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:58:28.499-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:28.498-0400] {dag.py:3947} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-08-09 12:00:00+00:00, run_after=2024-08-09 16:00:00+00:00
+[2024-08-09T13:58:28.505-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.049 seconds

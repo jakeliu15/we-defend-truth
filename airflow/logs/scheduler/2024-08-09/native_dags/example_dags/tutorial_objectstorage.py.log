@@ -411,3 +411,17 @@
 [2024-08-09T13:56:48.636-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:48.636-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:56:48.639-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:48.639-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
 [2024-08-09T13:56:48.645-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.071 seconds
+[2024-08-09T13:57:46.989-0400] {processor.py:161} INFO - Started process (PID=25153) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-08-09T13:57:46.989-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-08-09T13:57:46.989-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:46.989-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-08-09T13:57:47.018-0400] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-08-09T13:57:47.047-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:47.047-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:57:47.050-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:47.050-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-08-09T13:57:47.056-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.069 seconds
+[2024-08-09T13:58:42.457-0400] {processor.py:161} INFO - Started process (PID=25332) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-08-09T13:58:42.457-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-08-09T13:58:42.458-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:42.458-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-08-09T13:58:42.487-0400] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-08-09T13:58:42.515-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:42.515-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:58:42.519-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:42.518-0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-08-09T13:58:42.525-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.069 seconds

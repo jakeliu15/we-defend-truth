@@ -238,3 +238,11 @@
 [2024-08-09T13:56:22.809-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:22.809-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:56:22.812-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:22.812-0400] {dag.py:3947} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
 [2024-08-09T13:56:22.818-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.055 seconds
+[2024-08-09T13:58:20.265-0400] {processor.py:161} INFO - Started process (PID=25247) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-08-09T13:58:20.265-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-08-09T13:58:20.265-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:20.265-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-08-09T13:58:20.279-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:20.279-0400] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-08-09T13:58:20.279-0400] {processor.py:840} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-08-09T13:58:20.309-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:20.309-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:58:20.312-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:20.312-0400] {dag.py:3947} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-08-09T13:58:20.318-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.054 seconds

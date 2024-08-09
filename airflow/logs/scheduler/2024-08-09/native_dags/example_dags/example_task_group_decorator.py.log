@@ -257,3 +257,10 @@
 [2024-08-09T13:57:02.567-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:02.566-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:57:02.572-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:57:02.572-0400] {dag.py:3947} INFO - Setting next_dagrun for example_task_group_decorator to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
 [2024-08-09T13:57:02.578-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.061 seconds
+[2024-08-09T13:58:00.770-0400] {processor.py:161} INFO - Started process (PID=25201) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-08-09T13:58:00.771-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-08-09T13:58:00.771-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:00.771-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-08-09T13:58:00.787-0400] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-08-09T13:58:00.819-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:00.818-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:58:00.824-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:00.824-0400] {dag.py:3947} INFO - Setting next_dagrun for example_task_group_decorator to 2024-08-08 00:00:00+00:00, run_after=2024-08-09 00:00:00+00:00
+[2024-08-09T13:58:00.830-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.061 seconds

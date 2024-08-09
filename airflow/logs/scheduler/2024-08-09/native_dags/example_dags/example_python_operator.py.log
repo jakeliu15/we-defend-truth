@@ -238,3 +238,11 @@
 [2024-08-09T13:56:21.223-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:21.223-0400] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-08-09T13:56:21.226-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:56:21.226-0400] {dag.py:3947} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
 [2024-08-09T13:56:21.231-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.051 seconds
+[2024-08-09T13:58:18.865-0400] {processor.py:161} INFO - Started process (PID=25238) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2024-08-09T13:58:18.865-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-08-09T13:58:18.866-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:18.866-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2024-08-09T13:58:18.876-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:18.876-0400] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-08-09T13:58:18.877-0400] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2024-08-09T13:58:18.912-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:18.912-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:58:18.917-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:58:18.916-0400] {dag.py:3947} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-08-09T13:58:18.925-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
