@@ -1,0 +1,98 @@
+[2024-08-09T13:04:29.903-0400] {processor.py:161} INFO - Started process (PID=20906) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:04:29.904-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:04:29.904-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:29.904-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:04:29.911-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:04:29.975-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:29.975-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:04:29.978-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:29.978-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:04:29.986-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.083 seconds
+[2024-08-09T13:05:54.059-0400] {processor.py:161} INFO - Started process (PID=20995) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:05:54.059-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:05:54.059-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:05:54.059-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:05:54.067-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:05:54.102-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:05:54.102-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:05:54.105-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:05:54.105-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:05:54.111-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2024-08-09T13:07:39.939-0400] {processor.py:161} INFO - Started process (PID=21144) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:07:39.940-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:07:39.940-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:07:39.940-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:07:39.947-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:07:39.991-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:07:39.991-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:07:39.995-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:07:39.995-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:07:40.003-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2024-08-09T13:09:20.747-0400] {processor.py:161} INFO - Started process (PID=21264) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:09:20.747-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:09:20.747-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:09:20.747-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:09:20.754-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:09:20.789-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:09:20.789-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:09:20.792-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:09:20.792-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:09:20.798-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2024-08-09T13:11:03.119-0400] {processor.py:161} INFO - Started process (PID=21368) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:11:03.119-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:11:03.120-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:03.120-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:11:03.126-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:11:03.162-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:03.162-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:11:03.165-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:03.165-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:11:03.172-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2024-08-09T13:12:49.507-0400] {processor.py:161} INFO - Started process (PID=21472) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:12:49.508-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:12:49.508-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:12:49.508-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:12:49.515-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:12:49.553-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:12:49.553-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:12:49.556-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:12:49.556-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:12:49.562-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.057 seconds
+[2024-08-09T13:14:47.141-0400] {processor.py:161} INFO - Started process (PID=21576) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:14:47.142-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:14:47.142-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:14:47.142-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:14:47.149-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:14:47.184-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:14:47.184-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:14:47.187-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:14:47.187-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:14:47.193-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2024-08-09T13:16:43.889-0400] {processor.py:161} INFO - Started process (PID=21686) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:16:43.891-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:16:43.891-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:16:43.891-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:16:43.898-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:16:43.934-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:16:43.934-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:16:43.937-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:16:43.937-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:16:43.943-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds
+[2024-08-09T13:18:25.818-0400] {processor.py:161} INFO - Started process (PID=21861) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:18:25.820-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:18:25.820-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:18:25.820-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:18:25.827-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:18:25.862-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:18:25.862-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:18:25.865-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:18:25.865-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:18:25.871-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2024-08-09T13:20:08.668-0400] {processor.py:161} INFO - Started process (PID=21974) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:20:08.669-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:20:08.670-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:20:08.670-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:20:08.677-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:20:08.719-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:20:08.719-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:20:08.723-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:20:08.723-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:20:08.730-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.063 seconds
+[2024-08-09T13:21:51.409-0400] {processor.py:161} INFO - Started process (PID=22607) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:21:51.410-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:21:51.411-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:21:51.411-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:21:51.417-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:21:51.454-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:21:51.454-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:21:51.457-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:21:51.457-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:21:51.463-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds
+[2024-08-09T13:23:33.677-0400] {processor.py:161} INFO - Started process (PID=22711) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:23:33.678-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:23:33.678-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:23:33.678-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:23:33.685-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:23:33.720-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:23:33.720-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:23:33.723-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:23:33.723-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:23:33.729-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2024-08-09T13:25:20.873-0400] {processor.py:161} INFO - Started process (PID=22840) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:25:20.874-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:25:20.874-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:25:20.874-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:25:20.880-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:25:20.916-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:25:20.916-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:25:20.919-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:25:20.919-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:25:20.926-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2024-08-09T13:27:18.231-0400] {processor.py:161} INFO - Started process (PID=22952) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:27:18.232-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-09T13:27:18.232-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:18.232-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:27:18.238-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-09T13:27:18.274-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:18.274-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:27:18.277-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:27:18.277-0400] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-09T13:27:18.284-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds

@@ -1,0 +1,91 @@
+[2024-08-09T13:04:58.584-0400] {processor.py:161} INFO - Started process (PID=20924) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:04:58.584-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:04:58.585-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:58.585-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:04:58.590-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:04:58.650-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:58.650-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:04:58.653-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:58.653-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:04:58.660-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2024-08-09T13:06:47.926-0400] {processor.py:161} INFO - Started process (PID=21055) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:06:47.927-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:06:47.928-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:06:47.928-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:06:47.933-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:06:47.971-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:06:47.971-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:06:47.975-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:06:47.975-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:06:47.981-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2024-08-09T13:08:30.707-0400] {processor.py:161} INFO - Started process (PID=21195) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:08:30.708-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:08:30.708-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:08:30.708-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:08:30.713-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:08:30.748-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:08:30.748-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:08:30.751-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:08:30.751-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:08:30.758-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2024-08-09T13:10:11.727-0400] {processor.py:161} INFO - Started process (PID=21309) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:10:11.729-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:10:11.729-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:10:11.729-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:10:11.734-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:10:11.773-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:10:11.772-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:10:11.776-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:10:11.776-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:10:11.783-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2024-08-09T13:11:57.413-0400] {processor.py:161} INFO - Started process (PID=21415) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:11:57.414-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:11:57.415-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:57.415-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:11:57.420-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:11:57.454-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:57.454-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:11:57.458-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:57.458-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:11:57.464-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2024-08-09T13:13:50.201-0400] {processor.py:161} INFO - Started process (PID=21515) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:13:50.202-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:13:50.202-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:13:50.202-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:13:50.207-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:13:50.245-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:13:50.245-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:13:50.248-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:13:50.248-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:13:50.256-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2024-08-09T13:15:47.531-0400] {processor.py:161} INFO - Started process (PID=21627) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:15:47.532-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:15:47.532-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:15:47.532-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:15:47.537-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:15:47.571-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:15:47.571-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:15:47.575-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:15:47.575-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:15:47.581-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2024-08-09T13:17:36.772-0400] {processor.py:161} INFO - Started process (PID=21803) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:17:36.774-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:17:36.774-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:17:36.774-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:17:36.778-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:17:36.812-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:17:36.812-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:17:36.816-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:17:36.816-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:17:36.822-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2024-08-09T13:19:19.227-0400] {processor.py:161} INFO - Started process (PID=21897) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:19:19.228-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:19:19.228-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:19:19.228-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:19:19.234-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:19:19.273-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:19:19.273-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:19:19.277-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:19:19.277-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:19:19.284-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2024-08-09T13:21:00.741-0400] {processor.py:161} INFO - Started process (PID=22559) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:21:00.742-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:21:00.742-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:21:00.742-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:21:00.746-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:21:00.781-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:21:00.781-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:21:00.784-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:21:00.784-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:21:00.791-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2024-08-09T13:22:44.369-0400] {processor.py:161} INFO - Started process (PID=22672) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:22:44.370-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:22:44.370-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:22:44.370-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:22:44.375-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:22:44.409-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:22:44.409-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:22:44.413-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:22:44.413-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:22:44.419-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2024-08-09T13:24:25.196-0400] {processor.py:161} INFO - Started process (PID=22764) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:24:25.196-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:24:25.197-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:24:25.197-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:24:25.202-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:24:25.237-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:24:25.237-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:24:25.241-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:24:25.241-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:24:25.248-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2024-08-09T13:26:21.530-0400] {processor.py:161} INFO - Started process (PID=22906) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:26:21.531-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-09T13:26:21.532-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:26:21.532-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:26:21.536-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-09T13:26:21.570-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:26:21.570-0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-09T13:26:21.574-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:26:21.574-0400] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-09T13:26:21.580-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds

@@ -1,0 +1,143 @@
+[2024-08-09T13:04:42.415-0400] {processor.py:161} INFO - Started process (PID=20914) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:04:42.415-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:04:42.415-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:42.415-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:04:42.429-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:42.429-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:04:42.429-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:04:42.429-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:04:42.429-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:04:42.454-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.040 seconds
+[2024-08-09T13:06:06.105-0400] {processor.py:161} INFO - Started process (PID=21007) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:06:06.105-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:06:06.105-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:06:06.105-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:06:06.120-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:06:06.120-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:06:06.120-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:06:06.120-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:06:06.120-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:06:06.148-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.045 seconds
+[2024-08-09T13:07:52.768-0400] {processor.py:161} INFO - Started process (PID=21159) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:07:52.768-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:07:52.769-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:07:52.769-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:07:52.783-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:07:52.783-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:07:52.783-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:07:52.783-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:07:52.783-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:07:52.808-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2024-08-09T13:09:33.309-0400] {processor.py:161} INFO - Started process (PID=21274) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:09:33.310-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:09:33.311-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:09:33.311-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:09:33.324-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:09:33.324-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:09:33.324-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:09:33.324-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:09:33.324-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:09:33.348-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.040 seconds
+[2024-08-09T13:11:17.197-0400] {processor.py:161} INFO - Started process (PID=21377) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:11:17.197-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:11:17.197-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:17.197-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:11:17.211-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:17.211-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:11:17.211-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:11:17.211-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:11:17.211-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:11:17.237-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.042 seconds
+[2024-08-09T13:13:03.348-0400] {processor.py:161} INFO - Started process (PID=21483) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:13:03.349-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:13:03.349-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:13:03.349-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:13:03.363-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:13:03.363-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:13:03.364-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:13:03.364-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:13:03.364-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:13:03.388-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2024-08-09T13:15:00.982-0400] {processor.py:161} INFO - Started process (PID=21600) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:15:00.982-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:15:00.983-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:15:00.983-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:15:00.997-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:15:00.997-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:15:00.997-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:15:00.997-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:15:00.998-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:15:01.025-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.044 seconds
+[2024-08-09T13:16:56.712-0400] {processor.py:161} INFO - Started process (PID=21697) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:16:56.712-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:16:56.713-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:16:56.712-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:16:56.727-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:16:56.727-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:16:56.727-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:16:56.727-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:16:56.727-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:16:56.751-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2024-08-09T13:18:38.051-0400] {processor.py:161} INFO - Started process (PID=21869) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:18:38.052-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:18:38.053-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:18:38.053-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:18:38.067-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:18:38.066-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:18:38.067-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:18:38.067-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:18:38.067-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:18:38.091-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.040 seconds
+[2024-08-09T13:20:21.215-0400] {processor.py:161} INFO - Started process (PID=21982) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:20:21.216-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:20:21.217-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:20:21.217-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:20:21.232-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:20:21.232-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:20:21.232-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:20:21.232-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:20:21.232-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:20:21.259-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.045 seconds
+[2024-08-09T13:22:02.987-0400] {processor.py:161} INFO - Started process (PID=22622) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:22:02.989-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:22:02.989-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:22:02.989-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:22:03.002-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:22:03.002-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:22:03.002-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:22:03.002-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:22:03.002-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:22:03.026-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-08-09T13:23:46.348-0400] {processor.py:161} INFO - Started process (PID=22719) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:23:46.349-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:23:46.349-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:23:46.349-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:23:46.363-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:23:46.362-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:23:46.363-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:23:46.363-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:23:46.363-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:23:46.390-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.043 seconds
+[2024-08-09T13:25:34.809-0400] {processor.py:161} INFO - Started process (PID=22852) to work on /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:25:34.810-0400] {processor.py:830} INFO - Processing file /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-08-09T13:25:34.810-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:25:34.810-0400] {dagbag.py:545} INFO - Filling up the DagBag from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:25:34.825-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:25:34.825-0400] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-08-09T13:25:34.825-0400] {logging_mixin.py:188} INFO - [2024-08-09T13:25:34.825-0400] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-08-09T13:25:34.825-0400] {processor.py:842} WARNING - No viable dags retrieved from /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-08-09T13:25:34.851-0400] {processor.py:183} INFO - Processing /Users/jakeliu/we-defend-truth-1/airflow_env/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.043 seconds
